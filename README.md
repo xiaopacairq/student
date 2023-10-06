@@ -14,6 +14,8 @@
 
 > 1. git仓库克隆 
 >
+>    `git clone https://github.com/xiaopacairq/student.git`
+>
 > 2. 需要php7以上、MySQL5.7以上，可通过下载WAMP、phpstudy等集成工具快速部署
 >
 >    ![1696576165426](./images/1696576165426.jpg)
