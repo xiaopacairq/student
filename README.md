@@ -2,8 +2,9 @@
 
 ## 一、功能配备
 
-​ 测试地址：http://stu.srqcode.com/index.php
-pro 版测试地址：http://stu_pro.srqcode.com/index.php
+​ 测试地址：http://stu.srqcode.com
+
+pro 版测试地址：http://stu_pro.srqcode.com
 
 ​ 本项目由作者以 PHP 入门学习为导向，组织团队录制视频，是初学者必备入门项目，使用 HTML、PHP、MySQL 等技术，配备 Web 前后端的基本知识体系、教学视频和教学 PPT，开源供初学者进行学习，同时作为若水学习会程序开发组的入门票、校园 Web 程序开发公选课的教学内容，具有较强的实践性和实际价值！
 
